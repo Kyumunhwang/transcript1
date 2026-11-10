@@ -1,0 +1,443 @@
+{
+  "student_info": {
+    "name": "Sophia Minkyung KIM",
+    "birth_date": "12/13/2007",
+    "gender": "Female",
+    "parent_guardian": "KIM JONGSEONG / CHO HEEJOO",
+    "address": "109-2103 Wecity-4ro 80, Ilsandong-gu, Goyang-si, Gyeonggi-do, 10323",
+    "entry_date": "08/18/2025",
+    "withdrawal_date": "N/A",
+    "graduation_date": "N/A",
+    "transcript_date": "10/13/2026"
+  },
+  "cumulative_stats": {
+    "unweighted_gpa": 3.915,
+    "cumulative_credits": 23.5
+  },
+  "academic_records": [
+    {
+      "semester_name": "Transferred Grades: Yangil Middle School Sem. 1 2023-2024",
+      "school_name": "Yangil Middle School",
+      "grade_level": 9,
+      "semester_gpa": 4.0,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "English I",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Ethics",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Fine Arts I",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "History",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Korean I",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Mathematics 9",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Physical Education I",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Science 9",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Social Studies",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Technology & Home Economics I",
+          "grade": "A+",
+          "credits": 0.25
+        }
+      ]
+    },
+    {
+      "semester_name": "Transferred Grades: Yangil Middle School Sem. 2 2023-2024",
+      "school_name": "Yangil Middle School",
+      "grade_level": 9,
+      "semester_gpa": 4.0,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "English I",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Ethics",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Fine Arts I",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "History",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Korean I",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Mathematics 9",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Physical Education I",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Science 9",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Social Studies",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Technology & Home Economics I",
+          "grade": "A+",
+          "credits": 0.25
+        }
+      ]
+    },
+    {
+      "semester_name": "Transferred Grades: Angok High School Sem. 1 2024-2025",
+      "school_name": "Angok High School",
+      "grade_level": 10,
+      "semester_gpa": 3.75,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "English II",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Integrated Science",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Integrated Social Studies",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Korean II",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "Korean II",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Mathematics 10",
+          "grade": "B+",
+          "credits": 0.5
+        },
+        {
+          "title": "Music",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "Physical Education II",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "Science Lab",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "Technology & Home Economics II",
+          "grade": "A+",
+          "credits": 0.25
+        }
+      ]
+    },
+    {
+      "semester_name": "Transferred Grades: Angok High School Sem. 2 2024-2025",
+      "school_name": "Angok High School",
+      "grade_level": 10,
+      "semester_gpa": 3.76,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "English II",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Fine Arts II",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Integrated Science",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Integrated Social Studies",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Korean History",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "Korean II",
+          "grade": "B+",
+          "credits": 0.5
+        },
+        {
+          "title": "Mathematics 10",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Physical Education II",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Science Lab",
+          "grade": "B+",
+          "credits": 0.25
+        },
+        {
+          "title": "Technology & Home Economics II",
+          "grade": "A+",
+          "credits": 0.25
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 1 2025-2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 4.0,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "AP Precalculus A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible III-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese I-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Computer Science A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "English III-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Junior Seminar A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Marketing A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physics A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "US History A",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 2 2025-2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 3.96,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "AP Precalculus B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible III-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese I-B",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Computer Science B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "English III-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Junior Seminar B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Marketing B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physics B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "US History B",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Summer Semester 2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 12,
+      "semester_gpa": 4.0,
+      "semester_credits": 0.5,
+      "courses": [
+        {
+          "title": "Creative Writing",
+          "grade": "Pass",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 1 2026-2027",
+      "school_name": "Lighthouse International School",
+      "grade_level": 12,
+      "semester_gpa": 4.0,
+      "semester_credits": 0.5,
+      "courses": [
+        {
+          "title": "AP Calculus BC Sem. 1 (UC Scout)",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    }
+  ],
+  "graduation_requirements": [
+    {
+      "category": "Electives",
+      "required_units": 2.0,
+      "earned_units": 3.0
+    },
+    {
+      "category": "English",
+      "required_units": 4.0,
+      "earned_units": 3.5
+    },
+    {
+      "category": "Foreign Language",
+      "required_units": 2.0,
+      "earned_units": 1.5
+    },
+    {
+      "category": "Mathematics",
+      "required_units": 4.0,
+      "earned_units": 3.5
+    },
+    {
+      "category": "Physical Education",
+      "required_units": 0.5,
+      "earned_units": 1.0
+    },
+    {
+      "category": "Science",
+      "required_units": 3.0,
+      "earned_units": 3.0
+    },
+    {
+      "category": "Social Studies",
+      "required_units": 3.0,
+      "earned_units": 4.0
+    },
+    {
+      "category": "Visual and Performing Arts",
+      "required_units": 1.0,
+      "earned_units": 1.0
+    },
+    {
+      "category": "Bible",
+      "required_units": 4.0,
+      "earned_units": 1.0
+    },
+    {
+      "category": "Great Books",
+      "required_units": 0.5,
+      "earned_units": 2.0
+    }
+  ]
+}

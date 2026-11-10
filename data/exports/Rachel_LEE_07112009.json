@@ -1,0 +1,408 @@
+{
+  "student_info": {
+    "name": "Rachel LEE",
+    "birth_date": "07/11/2009",
+    "gender": "Female",
+    "parent_guardian": "Yonghyun Lee / Jungmyung Lee",
+    "address": "411-1902, 45 Wecity-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do, 10227",
+    "entry_date": "02/03/2025",
+    "withdrawal_date": "N/A",
+    "graduation_date": null,
+    "transcript_date": "10/13/2026"
+  },
+  "cumulative_stats": {
+    "unweighted_gpa": 4.088,
+    "cumulative_credits": 20.75
+  },
+  "academic_records": [
+    {
+      "semester_name": "Semester 1 2023-2024",
+      "school_name": "Handong International School",
+      "grade_level": 9,
+      "semester_gpa": 4.23,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "Basic Computer Programming",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "Christian Studies & Chapel",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Contemporary Themes In",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "English Lit.",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Geometry",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Korean Language Arts",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Music",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physical Education",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Science: Matter & Energy",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Speech & Debate",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "World History",
+          "grade": "A",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 2 2023-2024",
+      "school_name": "Handong International School",
+      "grade_level": 9,
+      "semester_gpa": 4.33,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "Art",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Basic Computer Programming",
+          "grade": "A",
+          "credits": 0.25
+        },
+        {
+          "title": "Christian Studies & Chapel",
+          "grade": "B+",
+          "credits": 0.25
+        },
+        {
+          "title": "Contemporary Themes In",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English Lit.",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Geometry",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Korean Language Arts",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Physical Education",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Science: Matter & Energy",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Speech & Debate",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "World History",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 2 2024-2025",
+      "school_name": "Lighthouse International School",
+      "grade_level": 10,
+      "semester_gpa": 4.0,
+      "semester_credits": 3.25,
+      "courses": [
+        {
+          "title": "Algebra II-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible II-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chemistry B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English II Honors B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Great Books I-B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Modern World History B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Music I-B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Sophomore Seminar B",
+          "grade": "A+",
+          "credits": 0.25
+        }
+      ]
+    },
+    {
+      "semester_name": "Summer Semester 2025",
+      "school_name": "Lighthouse International School",
+      "grade_level": 10,
+      "semester_gpa": 4.0,
+      "semester_credits": 1.0,
+      "courses": [
+        {
+          "title": "Chemistry A (APEX)",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Honors English II (APEX)",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 1 2025-2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 4.0,
+      "semester_credits": 4.25,
+      "courses": [
+        {
+          "title": "Algebra II-A (APEX)",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "AP Precalculus A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible III-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese I-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English III-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Great Books A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Junior Seminar A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Marketing A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physics A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "US History A",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 2 2025-2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 3.92,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "AP Precalculus B",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible III-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese I-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English III-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Great Books B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Junior Seminar B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Marketing B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physics B",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "US History B",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Summer Semester 2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 4.0,
+      "semester_credits": 0.5,
+      "courses": [
+        {
+          "title": "AP Biology A (APEX)",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 1 2026-2027",
+      "school_name": "Lighthouse International School",
+      "grade_level": 12,
+      "semester_gpa": 4.0,
+      "semester_credits": 0.5,
+      "courses": [
+        {
+          "title": "AP Biology B (APEX)",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    }
+  ],
+  "graduation_requirements": [
+    {
+      "category": "Electives",
+      "required_units": 2.0,
+      "earned_units": 2.75
+    },
+    {
+      "category": "English",
+      "required_units": 4.0,
+      "earned_units": 3.0
+    },
+    {
+      "category": "Foreign Language",
+      "required_units": 2.0,
+      "earned_units": 1.0
+    },
+    {
+      "category": "Mathematics",
+      "required_units": 4.0,
+      "earned_units": 3.0
+    },
+    {
+      "category": "Physical Education",
+      "required_units": 0.5,
+      "earned_units": 0.5
+    },
+    {
+      "category": "Science",
+      "required_units": 3.0,
+      "earned_units": 3.5
+    },
+    {
+      "category": "Social Studies",
+      "required_units": 3.0,
+      "earned_units": 2.5
+    },
+    {
+      "category": "Visual and Performing Arts",
+      "required_units": 1.0,
+      "earned_units": 0.75
+    },
+    {
+      "category": "Bible",
+      "required_units": 4.0,
+      "earned_units": 2.0
+    },
+    {
+      "category": "Great Books",
+      "required_units": 0.5,
+      "earned_units": 1.75
+    }
+  ]
+}

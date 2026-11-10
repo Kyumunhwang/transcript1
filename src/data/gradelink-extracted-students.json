@@ -1,0 +1,1602 @@
+{
+  "hose": {
+    "studentId": "1119",
+    "englishName": "HOU-SE KO",
+    "koreanName": "고호세",
+    "terms": [
+      {
+        "term_title": "Summer Semester 2020",
+        "academic_year": "2020",
+        "semester_type": "Summer",
+        "grade_level": 6,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 2,
+        "courses": [
+          {
+            "class_title": "STEM Enrichment",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Leveled English B",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": false
+          },
+          {
+            "class_title": "English B",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Math M6",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2019-2020",
+        "academic_year": "12019-202",
+        "semester_type": "Semester 1",
+        "grade_level": 6,
+        "gradelink_term_gpa": 3.06,
+        "gradelink_term_credits": 3.25,
+        "courses": [
+          {
+            "class_title": "English",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Basic Math",
+            "course_level": "Regular",
+            "letter_grade": "C",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Earth Science",
+            "course_level": "Regular",
+            "letter_grade": "B-",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean",
+            "course_level": "Regular",
+            "letter_grade": "B-",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education",
+            "course_level": "Regular",
+            "letter_grade": "C-",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Classical Reading",
+            "course_level": "Regular",
+            "letter_grade": "B",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Fine Arts",
+            "course_level": "Regular",
+            "letter_grade": "B",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Ancient World History",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2019-2020",
+        "academic_year": "22019-202",
+        "semester_type": "Semester 2",
+        "grade_level": 6,
+        "gradelink_term_gpa": 3.75,
+        "gradelink_term_credits": 2.75,
+        "courses": [
+          {
+            "class_title": "Bible",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Earth Science",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Basic Math",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean",
+            "course_level": "Regular",
+            "letter_grade": "B-",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M6 Arts",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 English",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "H Ancient World History",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2020-2021",
+        "academic_year": "12020-202",
+        "semester_type": "Semester 1",
+        "grade_level": 7,
+        "gradelink_term_gpa": 3.92,
+        "gradelink_term_credits": 3.25,
+        "courses": [
+          {
+            "class_title": "English Lv. B",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Bible",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Korean",
+            "course_level": "Regular",
+            "letter_grade": "B",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Classical Reading",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M6-7 Arts",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Modern World History",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Physical Education",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Life Science",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Pre-Algebra",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2020-2021",
+        "academic_year": "22020-202",
+        "semester_type": "Semester 2",
+        "grade_level": 7,
+        "gradelink_term_gpa": 3.95,
+        "gradelink_term_credits": 3.25,
+        "courses": [
+          {
+            "class_title": "English Lv. B",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Bible",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Korean",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Classical Reading",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M6-7 Arts",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Modern World History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Physical Education",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "M7 Life Science",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Pre-Algebra",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2021-2022",
+        "academic_year": "12021-202",
+        "semester_type": "Semester 1",
+        "grade_level": 8,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.25,
+        "courses": [
+          {
+            "class_title": "Algebra I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English Lv. C",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Science",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2021-2022",
+        "academic_year": "22021-202",
+        "semester_type": "Semester 2",
+        "grade_level": 8,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.25,
+        "courses": [
+          {
+            "class_title": "English Lv. C",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Algebra I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Science",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2022-2023",
+        "academic_year": "12022-202",
+        "semester_type": "Semester 1",
+        "grade_level": 9,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.5,
+        "courses": [
+          {
+            "class_title": "Geometry",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Freshmen Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Biology",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English I",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean History",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2022-2023",
+        "academic_year": "22022-202",
+        "semester_type": "Semester 2",
+        "grade_level": 9,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.5,
+        "courses": [
+          {
+            "class_title": "Physical Education",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Biology",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Freshmen Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Geometry",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2023-2024",
+        "academic_year": "12023-202",
+        "semester_type": "Semester 1",
+        "grade_level": 10,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.5,
+        "courses": [
+          {
+            "class_title": "Great Books",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Algebra II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Modern World History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English II Honors",
+            "course_level": "Honors",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Chemistry",
+            "course_level": "AP",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Sophomore Seminar A",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2023-2024",
+        "academic_year": "22023-202",
+        "semester_type": "Semester 2",
+        "grade_level": 10,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.5,
+        "courses": [
+          {
+            "class_title": "Great Books",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English II Honors",
+            "course_level": "Honors",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Sophomore Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Algebra II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Modern World History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Chemistry",
+            "course_level": "AP",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Summer Semester 2025",
+        "academic_year": "2025",
+        "semester_type": "Summer",
+        "grade_level": 11,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 0.75,
+        "courses": [
+          {
+            "class_title": "Creative Writing",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Biology A (APEX)",
+            "course_level": "AP",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2024-2025",
+        "academic_year": "12024-202",
+        "semester_type": "Semester 1",
+        "grade_level": 11,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.5,
+        "courses": [
+          {
+            "class_title": "Chinese III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physics",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Junior Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Precalculus",
+            "course_level": "AP",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "US History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Music I-A",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2024-2025",
+        "academic_year": "22024-202",
+        "semester_type": "Semester 2",
+        "grade_level": 11,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 4,
+        "courses": [
+          {
+            "class_title": "Chinese III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physics",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Junior Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Precalculus",
+            "course_level": "AP",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "US History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Biology (APEX)",
+            "course_level": "AP",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Music I-B",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2025-2026",
+        "academic_year": "12025-202",
+        "semester_type": "Semester 1",
+        "grade_level": 12,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3,
+        "courses": [
+          {
+            "class_title": "Bible IV",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Senior Creative Writing",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Calculus AB",
+            "course_level": "AP",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English IV",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Probability & Statistics (APEX)",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Drawing and Painting A",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education A",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Senior Seminar A",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2025-2026",
+        "academic_year": "22025-202",
+        "semester_type": "Semester 2",
+        "grade_level": 12,
+        "gradelink_term_gpa": 3.83,
+        "gradelink_term_credits": 3,
+        "courses": [
+          {
+            "class_title": "Probability & Statistics (APEX)",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible IV-B",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Calculus AB",
+            "course_level": "AP",
+            "letter_grade": "B",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Senior Seminar B",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Yearbook",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Drawing and Painting B",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English IV-B",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education B",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      }
+    ],
+    "totalCredits": 49.3,
+    "unweightedGpa": 3.905,
+    "weightedGpa": 3.997
+  },
+  "junyoung": {
+    "studentId": "1095",
+    "englishName": "JUNYOUNG HWANG",
+    "koreanName": "황준영",
+    "terms": [
+      {
+        "term_title": "Semester 1 2017-2018",
+        "academic_year": "12017-201",
+        "semester_type": "Semester 1",
+        "grade_level": 9,
+        "gradelink_term_gpa": 3.61,
+        "gradelink_term_credits": 4,
+        "courses": [
+          {
+            "class_title": "English I (Grammar)",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Geometry",
+            "course_level": "Regular",
+            "letter_grade": "B",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Science",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "World Geography",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible I",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Classical Reading",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean Literature",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese I",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education (Soccer Team)",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2017-2018",
+        "academic_year": "22017-201",
+        "semester_type": "Semester 2",
+        "grade_level": 9,
+        "gradelink_term_gpa": 3.64,
+        "gradelink_term_credits": 4,
+        "courses": [
+          {
+            "class_title": "English I (Literature)",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Geometry",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Science I",
+            "course_level": "Regular",
+            "letter_grade": "B",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "History I",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible I",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Korean Literature",
+            "course_level": "Regular",
+            "letter_grade": "B",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese I",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education (Soccer Team)",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Ethics",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Computer Science",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2018-2019",
+        "academic_year": "12018-201",
+        "semester_type": "Semester 1",
+        "grade_level": 10,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.75,
+        "courses": [
+          {
+            "class_title": "English II",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Advanced Algebra",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education (Basketball Team)",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education (Soccer)",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "World History",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "International Relations",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Choir",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Biology",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2018-2019",
+        "academic_year": "22018-201",
+        "semester_type": "Semester 2",
+        "grade_level": 10,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 4,
+        "courses": [
+          {
+            "class_title": "English II",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Algebra II",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Classical Reading",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physical Education (Soccer)",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "World History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "International Relations",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Choir",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Biology",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Summer Semester 2020",
+        "academic_year": "2020",
+        "semester_type": "Summer",
+        "grade_level": 11,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 1,
+        "courses": [
+          {
+            "class_title": "Creative Writing",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Academic English Essentials",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2019-2020",
+        "academic_year": "12019-202",
+        "semester_type": "Semester 1",
+        "grade_level": 11,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 3.5,
+        "courses": [
+          {
+            "class_title": "Honors Chemistry",
+            "course_level": "Honors",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "US History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Soccer",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Pre-Calculus",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Junior Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2019-2020",
+        "academic_year": "22019-202",
+        "semester_type": "Semester 2",
+        "grade_level": 11,
+        "gradelink_term_gpa": 4,
+        "gradelink_term_credits": 4,
+        "courses": [
+          {
+            "class_title": "Honors Chemistry",
+            "course_level": "Honors",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "US History",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Pre-Calculus",
+            "course_level": "Regular",
+            "letter_grade": "A",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "AP Macroeconomics (APEX)",
+            "course_level": "AP",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Junior Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Soccer",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible III",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Chinese II",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 1 2020-2021",
+        "academic_year": "12020-202",
+        "semester_type": "Semester 1",
+        "grade_level": 12,
+        "gradelink_term_gpa": 3.66,
+        "gradelink_term_credits": 2.5,
+        "courses": [
+          {
+            "class_title": "AP Calculus",
+            "course_level": "AP",
+            "letter_grade": "B",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Senior Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Fine Arts",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible IV",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physics",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English IV (English Literature)",
+            "course_level": "Regular",
+            "letter_grade": "B+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          }
+        ]
+      },
+      {
+        "term_title": "Semester 2 2020-2021",
+        "academic_year": "22020-202",
+        "semester_type": "Semester 2",
+        "grade_level": 12,
+        "gradelink_term_gpa": 3.45,
+        "gradelink_term_credits": 2.75,
+        "courses": [
+          {
+            "class_title": "AP Calculus",
+            "course_level": "AP",
+            "letter_grade": "C",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Fine Arts",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Soccer",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Bible IV",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "English IV (English Literature)",
+            "course_level": "Regular",
+            "letter_grade": "B",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Physics",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.5,
+            "is_included_in_simulation": true
+          },
+          {
+            "class_title": "Senior Seminar",
+            "course_level": "Regular",
+            "letter_grade": "A+",
+            "credits": 0.25,
+            "is_included_in_simulation": true
+          }
+        ]
+      }
+    ],
+    "totalCredits": 29.5,
+    "unweightedGpa": 3.819,
+    "weightedGpa": 3.886
+  }
+}

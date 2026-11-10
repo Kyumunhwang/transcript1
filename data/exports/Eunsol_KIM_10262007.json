@@ -1,0 +1,327 @@
+{
+  "student_info": {
+    "name": "Eunsol KIM",
+    "birth_date": "10/26/2007",
+    "gender": "Female",
+    "parent_guardian": "Hyunjin Kim / Youngah Shin",
+    "address": "1003-1101 430 Tanjung-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do, 10227",
+    "entry_date": "08/19/2024",
+    "withdrawal_date": "N/A",
+    "graduation_date": null,
+    "transcript_date": "10/14/2026"
+  },
+  "cumulative_stats": {
+    "unweighted_gpa": 3.98,
+    "cumulative_credits": 24.5
+  },
+  "academic_records": [
+    {
+      "semester_name": "School Sem. 1 2022-2023",
+      "school_name": "Rancho Bernardo High",
+      "grade_level": 9,
+      "semester_gpa": 4.0,
+      "semester_credits": 4.5,
+      "courses": [
+        {
+          "title": "Biology of Living Earth",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "Exercise & Nutritional Science",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "ENS I, II",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "Freshman Band",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "Integrated Math I",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "Marching PE",
+          "grade": "Pas",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "School Sem. 2 2022-2023",
+      "school_name": "Rancho Bernardo High",
+      "grade_level": 9,
+      "semester_gpa": 4.0,
+      "semester_credits": 4.0,
+      "courses": [
+        {
+          "title": "Concert Band",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "Honors English I",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "Integrated Math II",
+          "grade": "A",
+          "credits": 1.0
+        },
+        {
+          "title": "Spanish I, II",
+          "grade": "A",
+          "credits": 1.0
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 1 2024-2025",
+      "school_name": "Lighthouse International School",
+      "grade_level": 10,
+      "semester_gpa": 4.0,
+      "semester_credits": 3.5,
+      "courses": [
+        {
+          "title": "Algebra II-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible II-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chemistry A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese I-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English II Honors A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Modern World History A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Music I-A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Sophomore Seminar A",
+          "grade": "A+",
+          "credits": 0.25
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 2 2024-2025",
+      "school_name": "Lighthouse International School",
+      "grade_level": 10,
+      "semester_gpa": 4.0,
+      "semester_credits": 3.5,
+      "courses": [
+        {
+          "title": "Algebra II-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible II-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chemistry B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese I-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English II Honors B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Modern World History B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Music I-B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Sophomore Seminar B",
+          "grade": "A+",
+          "credits": 0.25
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 1 2025-2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 4.0,
+      "semester_credits": 4.25,
+      "courses": [
+        {
+          "title": "AP Biology A (APEX)",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "AP Precalculus A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible III-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese II-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English III-A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Junior Seminar A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physical Education A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physics A",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Public Speaking A",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "US History A",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Winter Semester 2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 4.0,
+      "semester_credits": 0.5,
+      "courses": [
+        {
+          "title": "AP Biology B (APEX)",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Semester 2 2025-2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 11,
+      "semester_gpa": 3.87,
+      "semester_credits": 3.75,
+      "courses": [
+        {
+          "title": "AP Precalculus B",
+          "grade": "B+",
+          "credits": 0.5
+        },
+        {
+          "title": "Bible III-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Chinese II-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "English III-B",
+          "grade": "A+",
+          "credits": 0.5
+        },
+        {
+          "title": "Junior Seminar B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physical Education B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "Physics B",
+          "grade": "A",
+          "credits": 0.5
+        },
+        {
+          "title": "Public Speaking B",
+          "grade": "A+",
+          "credits": 0.25
+        },
+        {
+          "title": "US History B",
+          "grade": "A+",
+          "credits": 0.5
+        }
+      ]
+    },
+    {
+      "semester_name": "Summer Semester 2026",
+      "school_name": "Lighthouse International School",
+      "grade_level": 12,
+      "semester_gpa": 4.0,
+      "semester_credits": 0.5,
+      "courses": [
+        {
+          "title": "Creative Writing",
+          "grade": "Pass",
+          "credits": 0.5
+        }
+      ]
+    }
+  ],
+  "graduation_requirements": []
+}
